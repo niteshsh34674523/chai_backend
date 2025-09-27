@@ -1,0 +1,61 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+lerna-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build / dist output
+dist/
+build/
+out/
+.tmp/
+.temp/
+
+# Coverage
+coverage/
+*.lcov
+
+# dotenv environment files
+.env
+.env.*.local
+
+# Cache
+.cache/
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+*.tsbuildinfo
+
+# VS Code settings
+.vscode/
+.history/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional IDE junk
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.tgz
